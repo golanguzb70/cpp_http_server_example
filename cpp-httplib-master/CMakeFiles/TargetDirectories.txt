@@ -1,0 +1,6 @@
+/home/azizbek/go/src/github.com/golanguzb70/cpp_http/cpp-httplib-master/CMakeFiles/install/strip.dir
+/home/azizbek/go/src/github.com/golanguzb70/cpp_http/cpp-httplib-master/CMakeFiles/install.dir
+/home/azizbek/go/src/github.com/golanguzb70/cpp_http/cpp-httplib-master/CMakeFiles/list_install_components.dir
+/home/azizbek/go/src/github.com/golanguzb70/cpp_http/cpp-httplib-master/CMakeFiles/rebuild_cache.dir
+/home/azizbek/go/src/github.com/golanguzb70/cpp_http/cpp-httplib-master/CMakeFiles/edit_cache.dir
+/home/azizbek/go/src/github.com/golanguzb70/cpp_http/cpp-httplib-master/CMakeFiles/install/local.dir
